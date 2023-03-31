@@ -1,2 +1,2 @@
 # 3-Step-DA-for-Water-Networks
-A 3-step Data Assimilation Algorithm for Water Distribution Networks
+A 3-step Ensemble Kalman Filter based data assimilation algorithm for water distribution networks
